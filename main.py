@@ -6,7 +6,9 @@ with open("data.json", "r") as file:
         data_list.append(dict)
 
 def rets(data):
-    pass
+    tweets = []
+    for tweet in data:
+        pass
 
 def users(data):
     pass
